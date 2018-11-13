@@ -1,3 +1,6 @@
+# Exclude the data folder due to a large size
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
