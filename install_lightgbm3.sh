@@ -8,3 +8,6 @@ cmake ..
 make -j  
 cd ../python-packages  
 sudo python3 setup.py install --precompile
+
+## Doing this for matplotlib when installed.
+echo "backend: TkAgg" >> ~/.matplotlib/matplotlibrc
