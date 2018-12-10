@@ -20,8 +20,8 @@ jupyter notebook
 
 Once the notebook is initialized, use the run command provided on the upper tool bar to execute the project. 
 
-Mean Squared Error of last run:
+*Mean Squared Error of last run:*
 
-Prediction results of last run:
+*Prediction results of last run:*
 
 
