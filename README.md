@@ -17,3 +17,5 @@ to install all requirements. Then run
 ```
 jupyter notebook
 ```
+
+Once the notebook is initialized, use the run command provided on the upper tool bar to execute the project. 
