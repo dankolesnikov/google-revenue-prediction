@@ -6,7 +6,7 @@ git clone --recursive https://github.com/Microsoft/LightGBM ; cd LightGBM
 mkdir build ; cd build  
 cmake ..   
 make -j  
-cd ../python-packages  
+cd ../python-package
 sudo python3 setup.py install --precompile
 
 ## Doing this for matplotlib when installed.
