@@ -20,3 +20,9 @@ to install all requirements. Then run
 jupyter notebook
 ```
 and click Google Revenue Prediction.ipynb, follow instructions and run accordingly.
+
+Once the notebook is initialized, use the run command provided on the upper tool bar to execute the project.
+
+Mean Squared Error of last run: 1.87
+
+Root Mean Squared Error of last run: 1.37
