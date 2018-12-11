@@ -1,7 +1,9 @@
 # Google Customer Revenue Prediction
+Danil Kolesnikov, Hong Joon Chew, Vishan Menon
 
 ## Dataset 
 Dataset is found in: https://www.kaggle.com/c/ga-customer-revenue-prediction/data (Sign-up to Kaggle required)
+
 Ensure the dataset is unzipped in a directory [current directory]/data/
 
 
@@ -30,3 +32,5 @@ Once the notebook is initialized, use the run command provided on the upper tool
 Mean Squared Error of last run: 1.87
 
 Root Mean Squared Error of last run: 1.37
+
+For any questions on running, please do ask! danil.kolesnikov@sjsu.edu or hongjoon.chew@sjsu.edu
