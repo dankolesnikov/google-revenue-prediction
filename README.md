@@ -1,7 +1,11 @@
 # Google Customer Revenue Prediction
 
+## Dataset 
 Dataset is found in: https://www.kaggle.com/c/ga-customer-revenue-prediction/data (Sign-up to Kaggle required)
+Ensure the dataset is unzipped in a directory [current directory]/data/
 
+
+## Running the program
 Before running anything, ensure you have Python3 installed and run
 ```
 bash +x install_lightgbm3.sh # For macOS systems.
